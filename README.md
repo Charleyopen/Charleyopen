@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning playing with LLM
 - 💞️ I’m looking to collaborate on creating a start-up
 - 📫 How to reach me：leave a message to me 
-- ⚡ Fun fact: I'll built someting that're opensourced
+- ⚡ Fun fact: I'll build someting that're opensourced
 
 <!---
 Charleyopen/Charleyopen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
