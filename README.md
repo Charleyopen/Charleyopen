@@ -1,1 +1,3 @@
-Hi, I’m @Charleyopen
+Hi, I’m Charley @Charleyopen 
+
+If you have something cool and want to build something. Let's do it! 
